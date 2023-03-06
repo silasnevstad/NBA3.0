@@ -18,7 +18,7 @@ A python machine learning model to predict the outcomes of NBA games.
 
 ## Overview
 
-A machine learning model designed to predict the outcome of NBA matches. The model has been trained on data from 2010 to 2022 predicting the expected offenseive and defensive strength.
+A machine learning model designed to predict the outcome of NBA matches. The model has been trained on data from 2010 to 2022 predicting the expected offenseive and defensive strength. Using a combination of those predictions and ELO ratings, I then calculate offensive and defensive strengths for each team, with which I can predict the outcome of upcoming games, and determine whether my odds have an edge over Vegas.
    
 <p align="right">(<a href="#top">back to top</a>)</p>
 
