@@ -34,7 +34,15 @@ A machine learning model designed to predict the outcome of NBA matches. The mod
 <!-- Dependencies -->
  <div id="dependencies"></div>
 
-
+ ## Dependencies
+ - numpy
+ - pandas
+ - seaborn
+ - matplotlib.pyplot
+ - sklearn.linear_model.Ridge
+ - sklearn.metrics.mean_squared_error
+ - sklearn.metrics
+ - re
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
