@@ -4,12 +4,13 @@ A python machine learning model to predict the outcomes of NBA games.
 
 <!-- TABLE OF CONTENTS -->
 <div id="top"></div>
-<details>
+<details open>
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#overview">Overview</a></li>
     <li><a href="#builtwith">Built With</a></li>
     <li><a href="#dependencies">Dependencies</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -44,3 +45,10 @@ A machine learning model designed to predict the outcome of NBA matches. The mod
  - re
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- Acknowledgements -->
+<div id="acknowledgements"></div>
+
+ ## Acknowledgements
+ 
+ Data sourced from naturalstattrick.
